@@ -11,4 +11,9 @@ imp commands for githubs:
 7. git push -u origin branch name
 
 
+-----------------------------
+
+8. If we want to add the changes in the added file just make the changes with your local file and save it.
+9. And follow the followin steps to push again on git hub. 
+
 **done Thanks.

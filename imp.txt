@@ -15,5 +15,8 @@ imp commands for githubs:
 
 8. If we want to add the changes in the added file just make the changes with your local file and save it.
 9. And follow the followin steps to push again on git hub. 
+10. git add .
+11. git commit -m "name of commit messeage"
+12. And at the final just use the: git push and your file will be updated on the github. 
 
 **done Thanks.
